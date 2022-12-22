@@ -4,9 +4,9 @@
 - 📫 How to reach me: [Discord](https://discord.com/users/810683600612884520), [Twitter](https://twitter.com/@cybdo6236), [Email](mailto://ryan@cybdo.me), and of course, [GitHub](https://github.com/cybdo)
 
 Ok that's GitHub's template done, here's a few more bits about me:
-Ryan/Cybdo
-He/They
-Male
-Australian (AEDT)
-13 years old
-Don't come to me with NSFW please
+- I go by Ryan and Cybdo
+- My pronouns are He/They
+- I am male
+- I am Australian (AEDT)
+- I am 13 years old
+- Don't come to me with NSFW please
