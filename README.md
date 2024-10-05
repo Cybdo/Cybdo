@@ -7,6 +7,6 @@ Ok that's GitHub's template done, here's a few more bits about me:
 - I go by Ryan and Cybdo (Pronounced Sigh-b-do)
 - I am male
 - I am Australian (AEDT)
-- I am 14 years old
+- I am 15 years old
 - I own [cybdo.me](https://cybdo.me)
 - Don't come to me with NSFW please
